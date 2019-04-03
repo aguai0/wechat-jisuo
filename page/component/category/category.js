@@ -1,9 +1,10 @@
 Page({
     data: {
         category: [
-            {name:'热卖',id:'guowei'},
-            {name:'抄底',id:'shucai'},
-            {name:'精品',id:'chaohuo'}
+            {name:'默认',id:'guowei'},
+            {name:'精品',id:'shucai'},
+            {name:'销量',id:'chaohuo'},
+            {name:'价格', id:'jiage'},
         ],
         detail:[],
         curIndex: 0,

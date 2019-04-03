@@ -1,9 +1,9 @@
 Page({
   data: {
     imgUrls: [
-      '/image/sy1.jpg',
-      '/image/sy2.jpg',
-      '/image/sy3.jpg'
+      '/image/new_1.jpg',
+      '/image/new_2.jpg',
+      '/image/new_3.jpg'
     ],
     indicatorDots: false,
     autoplay: false,
