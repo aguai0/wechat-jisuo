@@ -37,3 +37,10 @@ App({
     userInfo: null
   }
 })
+
+/* {
+  "pagePath": "page/component/cart/cart",
+  "iconPath": "image/32.png",
+  "selectedIconPath": "image/31.png",
+  "text": "购物车"
+},*/

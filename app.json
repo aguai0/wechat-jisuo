@@ -12,7 +12,7 @@
   ],
   "window": {
     "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "极索商城",
+    "navigationBarTitleText": "极索",
     "navigationBarBackgroundColor": "#AB956D",
     "backgroundColor": "#eeeeee",
     "enablePullDownRefresh": true
@@ -34,12 +34,6 @@
         "iconPath": "image/22.png",
         "selectedIconPath": "image/21.png",
         "text": "分类"
-      },
-      {
-        "pagePath": "page/component/cart/cart",
-        "iconPath": "image/32.png",
-        "selectedIconPath": "image/31.png",
-        "text": "购物车"
       },
       {
         "pagePath": "page/component/user/user",

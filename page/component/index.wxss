@@ -68,3 +68,12 @@ swiper-item image {
 .newest-box .newest-list .newest-text{
     font-size: 32rpx;
 }
+.slide-image{
+  width: 640rpx;
+  height: 400rpx;
+  margin-left: 50rpx;
+}
+.image_new{
+  width: 640rpx;
+  height: 400rpx;
+}
